@@ -17,7 +17,6 @@
     "rules": {
       "prefer-const": "off",
       "no-undef": "off",
-      "no-unused-vars": "off",
       "no-unused-expressions": "off"
     }
 }
